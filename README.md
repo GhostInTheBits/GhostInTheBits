@@ -1,16 +1,32 @@
-## Hi there 👋
+# Ghost In The Bits
 
-<!--
-**GhostInTheBits/GhostInTheBits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Who am I?**  
+A ghost in the machine.  
+No face. No fame. Just code.
 
-Here are some ideas to get you started:
+**What I do?**  
+- Build operating systems from cave   
+- Architect impossible software  
+- Break boundaries, [not rules]  
+- Speak in binaries
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Where I dwell?**  
+In the depths of:
+- 🌀 Assembly, Rust — where bytes bleed
+- 🔒 Systems built for control and freedom
+- 💀 Terminal is a place where I live
+
+
+**Projects I Hated Most**
+- `BitOS` — an OS
+- Custom kernels, ghost-layer security, zero bloat
+- Tools that outthink you before you finish typing
+
+🩸 **I don’t push code to impress.**  
+I push code to shift paradigms.  
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=FF00FF&center=true&vCenter=true&multiline=true&width=435&height=70&lines=Ghost+Logged+In...;Initiating+Code+Anomaly..." alt="Typing SVG" />
+</p>
